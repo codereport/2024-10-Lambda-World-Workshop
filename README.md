@@ -15,6 +15,8 @@
         <img src="https://img.shields.io/twitter/follow/code_report.svg?style=social&label=@code_report" /></a>
 </p>
 
+![image](https://github.com/user-attachments/assets/671e027b-7fc9-4772-8ef3-b4f5de0686a1)
+
 This repository is for [Tacit Programming in BQN, Kap, Uiua and APL](https://lambda.world/workshops/Tacit%20Programming%20in%20BQN,%20Kap,%20Uiua%20and%20APL/), a workshop given at [Lambda World 2024](https://lambda.world/).
 
 ## Resources
