@@ -38,7 +38,8 @@ This repository is for [Tacit Programming in BQN, Kap, Uiua and APL](https://lam
 ## Overview
 
 1. Introduction
-   1. First 10 Odds (Math)
-   2. First 10 Odds (Filter)
 2. Tacit Exercises
-   1. Common Factors ([PWC 82-1](https://theweeklychallenge.org/blog/perl-weekly-challenge-082/))
+   1. First N Odds  
+      a. Math <br>
+      b. Filter
+   2. Common Factors ([PWC 82-1](https://theweeklychallenge.org/blog/perl-weekly-challenge-082/))
