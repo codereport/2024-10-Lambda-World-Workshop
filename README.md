@@ -37,21 +37,19 @@ This repository is for [Tacit Programming in BQN, Kap, Uiua and APL](https://lam
 
 ## Overview
 
-1. Introduction
-2. Tacit Exercises
-   1. First N Odds
+1. First N Odds
       1. Math
       2. Filter
-3. Ants on the Boundary ([LC 383-1](https://leetcode.com/problems/ant-on-the-boundary))
+2. Ants on the Boundary ([LC 383-1](https://leetcode.com/problems/ant-on-the-boundary))
    1. Zero Equal
    2. Not Sign
-4. Skyline
-5. Sneaky Numbers ([LC 415-1](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville))
+3. Skyline
+4. Sneaky Numbers ([LC 415-1](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville))
    1. Adj Equal after Sort
    2. Unique Mask
-6. Apple Redistribution ([LC 388-1](https://leetcode.com/problems/apple-redistribution-into-boxes))
-7. Common Factors ([PWC 82-1](https://theweeklychallenge.org/blog/perl-weekly-challenge-082/))
-8. Kadanes / MCSS
-9. Is Monotonically Dec / Inc
+5. Apple Redistribution ([LC 388-1](https://leetcode.com/problems/apple-redistribution-into-boxes))
+6. Common Factors ([PWC 82-1](https://theweeklychallenge.org/blog/perl-weekly-challenge-082/))
+7. Kadanes / MCSS
+8. Is Monotonically Dec / Inc
 
 Bonus: PrimeSum (PWC 76)
