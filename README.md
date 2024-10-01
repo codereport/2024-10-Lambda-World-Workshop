@@ -38,8 +38,8 @@ This repository is for [Tacit Programming in BQN, Kap, Uiua and APL](https://lam
 ## Overview
 
 1. First N Odds
-      1. Math
-      2. Filter
+   1. Math
+   2. Filter
 2. Ants on the Boundary ([LC 383-1](https://leetcode.com/problems/ant-on-the-boundary))
    1. Zero Equal
    2. Not Sign
@@ -49,7 +49,8 @@ This repository is for [Tacit Programming in BQN, Kap, Uiua and APL](https://lam
    2. Unique Mask
 5. Apple Redistribution ([LC 388-1](https://leetcode.com/problems/apple-redistribution-into-boxes))
 6. Common Factors ([PWC 82-1](https://theweeklychallenge.org/blog/perl-weekly-challenge-082/))
-7. Kadanes / MCSS
-8. Is Monotonically Dec / Inc
+7. Difference of Sums ([LC 328-1](https://leetcode.com/poblems/difference-between-element-sum-and-digit-sum-of-an-array/))
+8. Kadanes / MCSS
+9. Monotonic Array ([LC 896](https://leetcode.com/problems/monotonic-array/))
 
-Bonus: PrimeSum (PWC 76)
+Bonus: PrimeSum ([PWC 76](https://theweeklychallenge.org/blog/perl-weekly-challenge-076/))
