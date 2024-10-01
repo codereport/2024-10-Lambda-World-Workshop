@@ -49,8 +49,8 @@ This repository is for [Tacit Programming in BQN, Kap, Uiua and APL](https://lam
    2. Unique Mask
 5. Apple Redistribution ([LC 388-1](https://leetcode.com/problems/apple-redistribution-into-boxes))
 6. Common Factors ([PWC 82-1](https://theweeklychallenge.org/blog/perl-weekly-challenge-082/))
-7. Difference of Sums ([LC 328-1](https://leetcode.com/poblems/difference-between-element-sum-and-digit-sum-of-an-array/))
-8. Kadanes / MCSS
-9. Monotonic Array ([LC 896](https://leetcode.com/problems/monotonic-array/))
+7. Difference of Sums ([LC 328-1](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/))
+8. :star: Kadanes / MCSS ([LC 53](https://leetcode.com/problems/maximum-subarray/))
+9. :star: Monotonic Array ([LC 896](https://leetcode.com/problems/monotonic-array/))
 
 Bonus: PrimeSum ([PWC 76](https://theweeklychallenge.org/blog/perl-weekly-challenge-076/))
